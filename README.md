@@ -164,8 +164,6 @@ data-center-spine-leaf-vxlan-design/
 
 ├── Troubleshooting/
 
-└── Verification/
-
 # Lessons Learned
 
 This project improved my understanding of:
